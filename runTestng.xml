@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="Selenium_Demo170410">
+    <classes>
+      <class name="com.xuechao.day01.TestNG01">
+        <methods>
+          <include name="testCase2"/>
+        </methods>
+      </class> <!-- com.xuechao.day03.GridTest -->
+    </classes>
+  </test> <!-- Selenium_Demo170410 -->
+</suite> <!-- Default Suite -->
